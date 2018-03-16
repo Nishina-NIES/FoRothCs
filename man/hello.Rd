@@ -1,12 +1,12 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{FoRothCs}
+\alias{FoRothCs}
+\title{Forest 137Cs dynamic model}
 \usage{
-hello()
+RothCs()
 }
 \description{
 Prints 'Hello, world!'.
 }
 \examples{
-hello()
+RothCs()
 }
